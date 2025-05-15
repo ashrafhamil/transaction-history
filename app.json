@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rytbank-transaction-history",
-    "slug": "rytbank-transaction-history",
+    "name": "transaction-history",
+    "slug": "transaction-history",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
