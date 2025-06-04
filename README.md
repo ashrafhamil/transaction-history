@@ -34,7 +34,7 @@ built using **React Native** and **TypeScript**.
 - App.tsx – sets up the navigation stack
 
 ## How to Run:
-- Clone the repo: git clone https://github.com/ashrafhamil/rytbank-transaction-history.git cd rytbank-transaction-history
+- Clone the repo: git clone https://github.com/ashrafhamil/transaction-history.git cd transaction-history
 - Install dependencies: npm install
 - Start the project using Expo: npx expo start
 - Scan the QR code with Expo Go on your mobile phone, or run it in an emulator or web browser.
